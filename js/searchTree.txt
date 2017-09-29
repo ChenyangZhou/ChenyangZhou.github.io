@@ -1,0 +1,2777 @@
+{
+"name": "","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+]}
+,
+{
+"name": "+-","size": 1000}
+,
+{
+"name": "+0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "+L","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "LR","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "RR","size": 1000}
+]}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "R0","size": 1000}
+]}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "RR","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+]}
+,
+{
+"name": "+0","size": 1000}
+,
+{
+"name": "+L","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "LR","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "LR","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "+-","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "+0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "RL","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+,
+{
+"name": "LR","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "RR","size": 1000}
+]}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "LR","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "RL","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "RL","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "RR","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+]}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "LR","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "R-","size": 1000}
+]}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "L-","size": 1000}
+]}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "RL","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "R+","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+]}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "LR","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+]}
+]}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+]}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+]}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "LR","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+]}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+]}
+,
+{
+"name": "+-","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "LR","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "+0","size": 1000}
+,
+{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "RL","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "R0","size": 1000}
+]}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "RL","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "RL","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+]}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000}
+]}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+]}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "R+","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+]}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "RL","size": 1000}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "R+","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "RL","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000,
+"children": [{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "00","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+]}
+,
+{
+"name": "L0","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "L-","size": 1000}
+]}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "RL","size": 1000,
+"children": [{
+"name": "0-","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+,
+{
+"name": "-L","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+]}
+,
+{
+"name": "RL","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "L+","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "+R","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "-R","size": 1000}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "LR","size": 1000}
+]}
+]}
+,
+{
+"name": "R-","size": 1000,
+"children": [{
+"name": "+0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+,
+{
+"name": "LR","size": 1000}
+]}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "+L","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "L+","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "0L","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000}
+]}
+,
+{
+"name": "L-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+]}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "++","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "L0","size": 1000}
+]}
+]}
+,
+{
+"name": "+0","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+,
+{
+"name": "R0","size": 1000}
+]}
+,
+{
+"name": "-+","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0R","size": 1000}
+,
+{
+"name": "R+","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "++","size": 1000,
+"children": [{
+"name": "0+","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "--","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000,
+"children": [{
+"name": "-R","size": 1000}
+]}
+,
+{
+"name": "RR","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+,
+{
+"name": "0-","size": 1000}
+]}
+]}
+,
+{
+"name": "-R","size": 1000,
+"children": [{
+"name": "0L","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+]}
+,
+{
+"name": "0-","size": 1000,
+"children": [{
+"name": "+R","size": 1000}
+,
+{
+"name": "-+","size": 1000}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "R-","size": 1000}
+]}
+,
+{
+"name": "00","size": 1000}
+,
+{
+"name": "0R","size": 1000,
+"children": [{
+"name": "+L","size": 1000}
+]}
+,
+{
+"name": "R+","size": 1000,
+"children": [{
+"name": "0R","size": 1000}
+]}
+,
+{
+"name": "R0","size": 1000,
+"children": [{
+"name": "-0","size": 1000}
+]}
+,
+{
+"name": "RR","size": 1000,
+"children": [{
+"name": "+-","size": 1000,
+"children": [{
+"name": "+0","size": 1000}
+]}
+,
+{
+"name": "-0","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "0L","size": 1000}
+,
+{
+"name": "L0","size": 1000}
+]}
+,
+{
+"name": "0+","size": 1000,
+"children": [{
+"name": "--","size": 1000}
+,
+{
+"name": "00","size": 1000}
+]}
+,
+{
+"name": "LL","size": 1000,
+"children": [{
+"name": "+-","size": 1000}
+,
+{
+"name": "0+","size": 1000}
+]}
+]}
+]}
+]}
