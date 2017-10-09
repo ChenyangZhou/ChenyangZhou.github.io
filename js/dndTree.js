@@ -27,7 +27,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.*/
 
 
 // Get JSON data
-treeJSON = d3.json("searchTree.txt", function(error, treeData) {
+treeJSON = d3.json("searchTree.json", function(error, treeData) {
 
     // Calculate total nodes, max label length
     var totalNodes = 0;
@@ -44,8 +44,8 @@ treeJSON = d3.json("searchTree.txt", function(error, treeData) {
     var root;
 
     // size of the diagram
-    var viewerWidth = $(document).width();
-    var viewerHeight = $(document).height();
+    var viewerWidth = 500;
+    var viewerHeight = 800;
 
     var tree = d3.layout.tree()
         .size([viewerHeight, viewerWidth]);
